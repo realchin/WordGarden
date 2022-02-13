@@ -8,6 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
     @IBOutlet weak var wordsGuessedLabel: UILabel!
     @IBOutlet weak var wordsRemainingLabel: UILabel!
     @IBOutlet weak var wordsMissedLabel: UILabel!

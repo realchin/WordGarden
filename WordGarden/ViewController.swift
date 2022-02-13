@@ -195,7 +195,6 @@ class ViewController: UIViewController {
             wordsMissedCount = 0
         }
         
-        
         // hide playAgainButton
         // enable letterGuessedTextField
         // disable guessALetterButton - it already is, tho

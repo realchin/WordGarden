@@ -76,7 +76,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="_ _ _ _ _" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="L4S-of-ahx">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="_" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="L4S-of-ahx">
                                 <rect key="frame" x="16" y="131" width="288" height="26"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="26" id="3vy-H2-guF"/>
@@ -172,7 +172,7 @@
                         <outlet property="playAgainButton" destination="37l-0w-cGI" id="fEU-kJ-SEE"/>
                         <outlet property="wordBeingRevealedLabel" destination="L4S-of-ahx" id="PN7-ri-4tD"/>
                         <outlet property="wordsGuessedLabel" destination="K2E-na-qnG" id="bwx-Mg-G1z"/>
-                        <outlet property="wordsInGame" destination="vAi-fW-C3D" id="pzO-tI-fRL"/>
+                        <outlet property="wordsInGameLabel" destination="vAi-fW-C3D" id="pzO-tI-fRL"/>
                         <outlet property="wordsMissedLabel" destination="quc-gi-GoE" id="KfC-lh-crn"/>
                         <outlet property="wordsRemainingLabel" destination="Tvj-b9-zbd" id="4sD-W1-mat"/>
                     </connections>
